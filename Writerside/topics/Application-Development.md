@@ -75,7 +75,7 @@ Other commonly used software products.
 5. You can open your code in your favourite editor or visit the url `https://apps.uis.edu/blog` in your browser.
 
 <seealso>
-    <category ref="ref">
+    <category ref="ui">
          <a href="https://laravel-news.com/">Laravel News</a>
          <a href="https://laracasts.com/">Laracasts</a>
          <a href="https://bootcamp.laravel.com/">Laravel Bootcamp</a>
