@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ui"
+                 name="UIS ITS"
+                 start-page="UIS-ITS.md">
+
+    <toc-element topic="UIS-ITS.md"/>
+    <toc-element topic="Application-Development-and-DB-support.md">
+        <toc-element topic="Application-Development.md"/>
+        <toc-element topic="Database-Support.md"/>
+    </toc-element>
+</instance-profile>
