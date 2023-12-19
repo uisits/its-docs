@@ -10,7 +10,7 @@ ITS provides the campus community a diverse set of technology services including
 
 - Computer Labs
 
-    UIS faculty, students, and staff have access to state-of the-art computing facilities, including the open access computer lab in the University Hall Building (UHB 2000) and the multimedia lab on the first level of Brookens (BRK 180). In addition, there are a large number of computers available for general use in Brookens Library. [Read more about Computer Labs]().
+    UIS faculty, students, and staff have access to state-of the-art computing facilities, including the open access computer lab in the University Hall Building (UHB 2000) and the multimedia lab on the first level of Brookens (BRK 180). In addition, there are a large number of computers available for general use in Brookens Library. [Read more about Computer Labs](https://www.uis.edu/its).
 
 - Instructional Support and Training
 
@@ -18,7 +18,7 @@ ITS provides the campus community a diverse set of technology services including
 
 - Lab And Classroom Services
 
-    ITS Lab and Classroom Services Team maintains the equipment in smart classrooms and computer labs and assists faculty and students with the use of available technologies. Training sessions are offered throughout the semester and one-on-one help is offered by appointment. Various support services are offered which enhance student learning and instructor pedagogy. Support services for utilizing classroom technologies extend into the evening hours. ITS Staff are available for assisting with trouble-shooting problems that may arise. [Read more about Labs and Classroom Services]().
+    ITS Lab and Classroom Services Team maintains the equipment in smart classrooms and computer labs and assists faculty and students with the use of available technologies. Training sessions are offered throughout the semester and one-on-one help is offered by appointment. Various support services are offered which enhance student learning and instructor pedagogy. Support services for utilizing classroom technologies extend into the evening hours. ITS Staff are available for assisting with troubleshooting problems that may arise. [Read more about Labs and Classroom Services](https://www.uis.edu/its).
 
 - Learning Management System
 
@@ -38,7 +38,7 @@ ITS provides the campus community a diverse set of technology services including
 
 - Smart Classrooms
   
-    Nearly all classrooms at UIS are technology-enhanced, equipped with technologies to enhance the teaching and learning experience. Smart classroom equipment includes a network PC, data projector, document camera, interactive whiteboard, DVD/VCR player, and a touch screen that allows you to control all of the equipment in the room
+    Nearly all classrooms at UIS are technology-enhanced, equipped with technologies to enhance the teaching and learning experience. Smart classroom equipment includes a network PC, data projector, document camera, interactive whiteboard, DVD/VCR player, and a touch screen that allows you to control all the equipment in the room
 
 - Technology Training
 
@@ -46,7 +46,7 @@ ITS provides the campus community a diverse set of technology services including
 
 - Webcasting
 
-    In collaboration with the Office of Electronic Media, ITS offers webcasting services for campus events and classroom lectures. Events such as graduation, athletics, festivals, and various workshops/symposiums have been broadcast across the Internet using Flash, QuickTime, Real, and Windows Media formats. Most webcasts are archived and can be accessed as video on demand (VOD). [Read more about Webcasting]().
+    In collaboration with the Office of Electronic Media, ITS offers webcasting services for campus events and classroom lectures. Events such as graduation, athletics, festivals, and various workshops/symposiums have been broadcast across the Internet using Flash, QuickTime, Real, and Windows Media formats. Most webcasts are archived and can be accessed as video on demand (VOD). [Read more about Webcasting](https://www.uis.edu/its).
 
 
 ### Client Services
@@ -68,7 +68,7 @@ ITS provides the campus community a diverse set of technology services including
 
 - UIS - Alert Campus emergency notification system
 
-  UIS-Alert sends email and text messages in the event of a campus emergency or significant event. UIS faculty, staff, and students are signed up to receive messages from UIS-Alert when they setup their password. You can also enroll two additional contacts to receive alert messages by entering their email addresses. They will receive an invitation email from UIS-Alert and can choose to accept or deny your invitation. In addition, they can also enter their own phone number to receive text message alerts from UIS-Alert. Sign-in to the UIS-Alert Emergency Notification System
+  UIS-Alert sends email and text messages in the event of a campus emergency or significant event. UIS faculty, staff, and students are signed up to receive messages from UIS-Alert when they set up their password. You can also enroll two additional contacts to receive alert messages by entering their email addresses. They will receive an invitation email from UIS-Alert and can choose to accept or deny your invitation. In addition, they can also enter their own phone number to receive text message alerts from UIS-Alert. Sign-in to the UIS-Alert Emergency Notification System
 
 - Wireless Network
 
