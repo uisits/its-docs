@@ -8,6 +8,7 @@
 
     <toc-element topic="UIS-ITS.md"/>
     <toc-element topic="Application-Development-and-DB-support.md">
+        <toc-element topic="Team.md"/>
         <toc-element topic="Application-Development.md">
             <toc-element topic="Development-Lifecycle.md"/>
             <toc-element topic="Environments.md"/>

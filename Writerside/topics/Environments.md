@@ -13,7 +13,8 @@ This environment lives on developers local machine. Since each developer is allo
 
 
 ## Testing
-ITS hosts all our testing applications to a dedicated test server. All test applications are deployed using test docker containers and test databases.
+ITS hosts all our testing applications to a dedicated test server. All test applications are deployed using test docker containers and test databases. In order to keep production data and apis secure we separate test applications by serving them under `https:apps-test.uis.edu` domain and all test databases are maintained on `uisdocker1` server.
 
 ## Production
-Todo...
+We constantly update and upgrade our dependencies for all applications in order to stay current with new and emerging technologies. Using docker helps us with this by building new updated and improved docker images which can then be tested and used in production environment.
+Our production server has a load balancer which routes the request to available server.
